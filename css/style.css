@@ -1,7 +1,7 @@
 body {	
 
 font-family: arial;
-background: red;
+background: #123456;
 
 
 
@@ -11,11 +11,11 @@ transform: rotate(180deg);
  }
 
  ol {
- 	background-color: green;
+ 	background-color: grey;
  }
  
  p {
-background-color: green;
+background-color: grey;
  }
 
  img {
